@@ -1,6 +1,6 @@
 # ProxyChains ver. 4.3.0 README
 
-![build-badge](https://github.com/haad/proxychains/actions/workflows/buildci.yml/badge.svg)
+![build-badge](https://github.com/hatanhack/proxychains/actions/workflows/buildci.yml/badge.svg)
 
 
 ProxyChains is a UNIX program, that hooks network-related libc functions
